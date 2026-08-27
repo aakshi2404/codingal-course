@@ -1,0 +1,15 @@
+body {
+    font-family: 'Inter';
+}
+
+main {
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-image:url("wallpaper.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
